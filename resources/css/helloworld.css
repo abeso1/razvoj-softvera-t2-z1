@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: aquamarine;
+}
+.label{
+    -fx-font-size: 20px;
+    -fx-text-fill: orangered;
+}
+.button{
+    -fx-background-color: green;
+    -fx-border-radius: 50%;
+}
